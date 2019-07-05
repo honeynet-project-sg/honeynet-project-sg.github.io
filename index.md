@@ -1,7 +1,3 @@
---
-title: The Honeynet Project, Singapore Chapter
---
-
 ## About Us
 
 The Honeynet Project is an international non-profit (501c3) research organisation dedicated to investigate the latest attacks and develop open source tools to improve cybersecurity. 
