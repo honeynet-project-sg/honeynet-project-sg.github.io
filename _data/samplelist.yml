@@ -1,0 +1,8 @@
+docs_list_title: The Honeynet Project, Singapore Chapter
+docs:
+
+- title: About Us
+  url: index.md
+
+- title: Deployments 
+  url: deployments.md
